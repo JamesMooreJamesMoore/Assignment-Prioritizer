@@ -1,1 +1,2 @@
 # Assignment-Prioritizer
+In this project I will create a program that takes in a user's inputted class grades, assignment weight, and category weight in order to identify the optimal order of assignments in order to keep the highest grades.
